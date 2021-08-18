@@ -1,0 +1,12 @@
+ Volume in drive H has no label.
+ Volume Serial Number is 74A3-F9B9
+
+ Directory of H:\GIT & GITHUB\MyRPIProject
+
+18-Aug-21  07:34    <DIR>          .
+18-Aug-21  07:34    <DIR>          ..
+21-Aug-19  14:17             2,531 raspberrypiPanTiltFaceTrackingOpenCV.py
+18-Aug-21  07:03                49 test.txt
+18-Aug-21  07:34                 0 test2.txt
+               3 File(s)          2,580 bytes
+               2 Dir(s)  123,874,828,288 bytes free
